@@ -1,2 +1,2 @@
 # BitStar-API
-BitStar API文档
+BitStar API Document
